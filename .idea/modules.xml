@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/socket-common/socket-common.iml" filepath="$PROJECT_DIR$/socket-common/socket-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socket-demo.iml" filepath="$PROJECT_DIR$/socket-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socket-domain/socket-domain.iml" filepath="$PROJECT_DIR$/socket-domain/socket-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socket-manager/socket-manager.iml" filepath="$PROJECT_DIR$/socket-manager/socket-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socket-rpc/socket-rpc.iml" filepath="$PROJECT_DIR$/socket-rpc/socket-rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socket-service/socket-service.iml" filepath="$PROJECT_DIR$/socket-service/socket-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socket-web/socket-web.iml" filepath="$PROJECT_DIR$/socket-web/socket-web.iml" />
+    </modules>
+  </component>
+</project>

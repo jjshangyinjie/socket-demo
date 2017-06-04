@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="socket-common" />
+        <module name="socket-domain" />
+        <module name="socket-manager" />
+        <module name="socket-rpc" />
+        <module name="socket-service" />
+        <module name="socket-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="socket-common" target="1.5" />
+      <module name="socket-demo" target="1.5" />
+      <module name="socket-domain" target="1.5" />
+      <module name="socket-manager" target="1.5" />
+      <module name="socket-rpc" target="1.5" />
+      <module name="socket-service" target="1.5" />
+      <module name="socket-web" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
