@@ -13,11 +13,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RequestMapping("/")
 public class SendController {
 
-    private static final Log log = LogFactory.getLog(SendController.class);
+    private static final Log logger = LogFactory.getLog(SendController.class);
 
     @RequestMapping("/onMessage")
     public String onMessage(Model view) {
-        log.info("start send message!");
+        logger.info("start send message!");
 
         view.addAttribute("name", "onMessage");
         return "socket/tables";
